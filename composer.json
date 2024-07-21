@@ -1,0 +1,17 @@
+{
+    "name": "usman/dj_booking_system",
+    "autoload": {
+        "psr-4": {
+            "Usman\\DjBookingSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Usman Swati",
+            "email": "usmansawati@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
